@@ -1,1 +1,4 @@
-# dio-module-cart
+## Objetivo
+
+Simular carrinho de compras Shopee
+
