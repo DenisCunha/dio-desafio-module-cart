@@ -27,9 +27,8 @@ async function removeItem(userCart, item) {
         userCart.splice(indexFound, 1);
         return;
     }
-
-
-  console.log("index " + indexFound);
+    
+ // console.log("index " + indexFound);
 }
 
 async function displayCart(userCart) {
